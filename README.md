@@ -11,12 +11,12 @@ It follows the simple rules:
 
 More can be read about the game here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-##Playing
+## Playing
 
 To play you start the program and left click the cells that you want to start as alive. You can drag the grid with right click and zoom with the mouse wheel. Then hit space to begin the simulation.
 
 
-##Building
+## Building
 
 This project uses CMAKE for building, so you will need a g++ compiler. Simple Directmedia Layer 2 is used for graphics. These dependencies can be installed on ubuntu with:
 ```
